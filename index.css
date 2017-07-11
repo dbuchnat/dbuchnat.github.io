@@ -1,0 +1,13 @@
+body {background-image: url(/Users/dbuchnat/Documents/DevProject/images/greybackground.jpg);}
+body {opacity: .9;}
+body {background-size: cover;}
+h1 {border-color: SlateGray;}
+h1 {border-style: solid;}
+h1 {border-width: thick;}
+h1 {text-align: center;}
+.blog {font-size: 14pt;}
+.blog {font: Arial;}
+.blog {border-color: SlateGray;}
+.blog {border-style: solid;}
+.end {font-size: 14pt;}
+.end {font: Arial;}
